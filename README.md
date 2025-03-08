@@ -20,22 +20,37 @@ From there, we built out the program to:
 
 Directory Structure:
 imageStacker/
+
 -inputImages/  # place input .ppm files here
+
 -outputImages/ # stacked images will be saved here
+
 -Stacker.h     # defining the Stacker class
+
 -Stacker.cpp   # Implementaion of the Stacker class
+
 -main.cpp      # User interface for image stacking
+
 -Makefile      # for compiling
+
 -README.md     # documentation
 
 How to Compile: "make" will utlize the provided Makefile
+
 How to Run: "./image_stacker"
+
 Follow Prompts: (with example input)
+
 1. Enter the number of images to stack: 3
+   
 2. Enter filename 1 (inside inputImages/): image1.ppm
+   
    Enter filename 2 (inside inputImages/): image2.ppm
+   
    Enter filename 3 (inside inputImages/): image3.ppm
+   
 3. Enter the output filename (imcluding.ppm): stacked.ppm
+   
 4. A new file will be saved in the outputImages directory.
   
 How to Clean and Recompile:  "make clean && make"
@@ -43,12 +58,13 @@ How to Clean and Recompile:  "make clean && make"
 
 Collaboration:
 
-Justin: 
+Justin:
 - basic framework/layout
 - Stacker::Stacker()
 - Stacker::stackImage()
 - main.cpp
 - README.md
+  
 Jacob:
 - basic framework/layout
 - Stacker::readImage()
