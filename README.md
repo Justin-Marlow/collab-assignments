@@ -6,17 +6,20 @@ Description:
 This project implements an image stacking program that reads multiple .PPM images, averages their pixel values, and saves the processed image.
 The program requires the user to manually enter each image filename and an output filename. 
 
+
 Design decisions:
 The design process followed the coding recomendation of simply getting a basic framework in place.
 1. Read in an image
 2. Store it in a class instance
 3. Output it to a new file.  
 
+
 From there, we built out the program to:
 1. Read in all supplied images
 2. Add each to a running total for pixel values
 3. Divide the total by the number of images
 4. Use the new averaged totals in writing to a new output file.
+
 
 Directory Structure:
 imageStacker/
@@ -35,6 +38,7 @@ imageStacker/
 
 -README.md     # documentation
 
+
 How to Compile: "make" will utlize the provided Makefile
 
 How to Run: "./image_stacker"
@@ -52,6 +56,7 @@ Follow Prompts: (with example input)
 3. Enter the output filename (imcluding.ppm): stacked.ppm
    
 4. A new file will be saved in the outputImages directory.
+
   
 How to Clean and Recompile:  "make clean && make"
 
