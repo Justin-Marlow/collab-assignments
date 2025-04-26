@@ -1,4 +1,0 @@
-<map id="Supervisor" name="Supervisor">
-<area shape="rect" id="node1" title="Represents a supervisor who manages other employees." alt="" coords="5,80,96,107"/>
-<area shape="rect" id="node2" href="$classEmployee.html" title="Represents an employee with basic information and functionality." alt="" coords="7,5,94,32"/>
-</map>

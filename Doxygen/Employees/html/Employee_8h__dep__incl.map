@@ -1,9 +1,0 @@
-<map id="Employee.h" name="Employee.h">
-<area shape="rect" id="node1" title="Declaration of the Employee class." alt="" coords="191,5,289,32"/>
-<area shape="rect" id="node2" href="$Employee_8cpp.html" title="Implementation file for the Employee class." alt="" coords="5,80,120,107"/>
-<area shape="rect" id="node3" href="$main_8cpp.html" title="Entry point for testing the Employee, Supervisor, and Officer classes." alt="" coords="244,155,327,181"/>
-<area shape="rect" id="node4" href="$Supervisor_8h.html" title="Declaration of the Supervisor class." alt="" coords="145,80,247,107"/>
-<area shape="rect" id="node6" href="$Officer_8h.html" title="Declaration of the Officer class." alt="" coords="323,80,399,107"/>
-<area shape="rect" id="node5" href="$Supervisor_8cpp.html" title="Implementation file for the Supervisor class." alt="" coords="103,155,220,181"/>
-<area shape="rect" id="node7" href="$Officer_8cpp.html" title="Implementation file for the Officer class." alt="" coords="351,155,441,181"/>
-</map>

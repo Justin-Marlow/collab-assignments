@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classEmployee.html" title="Represents an employee with basic information and functionality." alt="" coords="5,31,92,57"/>
-<area shape="rect" id="node2" href="$classOfficer.html" title="Derived class from Employee that adds an &quot;evilness&quot; factor to pay." alt="" coords="153,5,218,32"/>
-<area shape="rect" id="node3" href="$classSupervisor.html" title="Represents a supervisor who manages other employees." alt="" coords="140,56,231,83"/>
-</map>

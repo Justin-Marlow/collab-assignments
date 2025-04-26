@@ -1,4 +1,0 @@
-<map id="Officer" name="Officer">
-<area shape="rect" id="node1" title="Derived class from Employee that adds an &quot;evilness&quot; factor to pay." alt="" coords="16,80,81,107"/>
-<area shape="rect" id="node2" href="$classEmployee.html" title="Represents an employee with basic information and functionality." alt="" coords="5,5,92,32"/>
-</map>
